@@ -5,9 +5,9 @@ let options =
     // Pass your App ID here.
     appId: 'd52074c051604b949f25b2dec2aa706f',
     // Set the channel name.
-    channel: 'test_call',
+    channel: 'call_test',
     // Pass your temp token here.
-    token: '007eJxTYDi/X+C7s8KOa9KzbKtCX91SidJe9lvabPYP96fcbOcX/9dWYEgxNTIwN0k2MDU0MzBJsjSxTDMyTTJKSU02Skw0NzBL655qltIQyMiw4dREZkYGRgYWIAbxmcAkM5hkAZOcDCWpxSXxyYk5OQwMAGxHJI4=',
+    token: '007eJxTYAjgfNxVfctE72/FRnN5PeVNG7JYfI5aHohjtPz5aKZ7znMFhhRTIwNzk2QDU0MzA5MkSxPLNCPTJKOU1GSjxERzA7O0VT/NUxoCGRmS/xkxMzIwMrAAMYjPBCaZwSQLmORkSE7MyYkvSS0uYWAAAN9xI1I=',
     // Set the user ID.
     uid: 0,
 };
